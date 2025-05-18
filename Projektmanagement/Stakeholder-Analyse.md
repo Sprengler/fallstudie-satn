@@ -32,7 +32,7 @@ Entwicklung einer geeigneten Engagement-Strategie:
     * Anpassungen der Stakeholder-Analyse an geänderte Umstände
 
 ## Power-Index-Matrix
-![Power-Index-Matrix](Projektmanagement/Bilder/riskmanagement-matrix.png)
+![Power-Index-Matrix](Bilder/riskmanagement-matrix.png)
 
 ## Strategieempfehlung
 | Quadrant | Strategie | Empfohlenes Vorgehen |
