@@ -20,7 +20,7 @@ Bewertung erfolgt anhand folgender Größen:
 4. **Visualisierung**<br>
 Darstellung des Einflusses und Interesses der Stakeholder:
     * Power-Interest-Matrix nach Mendelow
-    * bei Bedarf Netzwerkdiagramme für Beziehungen zw. Stakeholdern
+    * bei Bedarf Netzwerkdiagramme für Beziehungen zwischen Stakeholdern
 5. **Planen**<br>
 Entwicklung einer geeigneten Engagement-Strategie:
     * Dokumantation der Kommunikationskanäle und -frequenzen
