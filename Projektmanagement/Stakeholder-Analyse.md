@@ -23,9 +23,9 @@ Darstellung des Einflusses und Interesses der Stakeholder:
     * bei Bedarf Netzwerkdiagramme für Beziehungen zw. Stakeholdern
 5. **Planen**<br>
 Entwicklung einer geeigneten Engagement-Strategie:
-    * Definieren Sie Kommunikationskanäle und -frequenzen
-    * Planen Sie konkrete Maßnahmen zur Einbindung
-    * Legen Sie Verantwortlichkeiten fest
+    * Dokumantation der Kommunikationskanäle und -frequenzen
+    * Planung konkrete Maßnahmen zur Einbindung
+    * Festlegen von Verantwortlichkeiten
 6. **Verbessern**<br>
  Dokumentation von Erfahrungen und Lessons Learned:
     * Identifikation von Veränderungen in der Stakeholder-Landschaft
