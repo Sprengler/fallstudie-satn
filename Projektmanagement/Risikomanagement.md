@@ -15,11 +15,9 @@
 | Möglich | 🟢 **CS**, **RV** | 🟡 **AI**, **HW** | 🟡 | 🔴 **HW** |
 | Sehr wahrscheinlich | 🟢 **SK** | 🟡 **FZ**, **IN**, **DOK** | 🔴 **FZ** | 🔴 |
 
-### Risiko-Matrix
-| Status       | Symbol       |
-|--------------|--------------|
-| Hochpriorität| 🔴           |
-| Mittel       | 🟡           |
-| Niedrig      | 🟢           |
-
-#### Risiko-Matrix
+### Priorisierung der Risikobewertung
+| Status | Symbol |
+| --- | --- |
+| Hoch| 🔴 |
+| Mittel | 🟡 |
+| Niedrig | 🟢 |
